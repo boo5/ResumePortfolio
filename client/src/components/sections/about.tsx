@@ -89,8 +89,8 @@ export default function About() {
               viewport={{ once: true }}
             >
               <div className="text-center">
-                <div className="text-2xl font-bold text-[var(--portfolio-accent)]">4+</div>
-                <div className="text-sm text-slate-400">Years Experience</div>
+                <div className="text-2xl font-bold text-[var(--portfolio-accent)]">6+</div>
+                <div className="text-sm text-slate-400">Months Experience</div>
               </div>
             </motion.div>
             
